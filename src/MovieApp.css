@@ -1,0 +1,16 @@
+.ant-card {
+    height: 100%;  
+    display: flex; 
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.ant-card .ant-card-cover img {
+    height: 300px;  
+    object-fit: cover; 
+    width: 100%;
+}
+
+.ant-row > .ant-col {
+    margin-bottom: 20px;
+}
